@@ -28,6 +28,18 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    void initView(){
+
+    }
+
+    void initData(){
+
+    }
+
+    void initListener(){
+
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
